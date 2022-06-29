@@ -1,6 +1,7 @@
 unit 
 final advertisement 
 
+<<<<<<< HEAD
 123
 test
 test2
@@ -14,3 +15,15 @@ advertise2
 advertise3
 
 final ads 001 
+=======
+1 Pine apple
+2 Apple
+3 Grapes
+4 Peach
+5 Lechi
+6 Banana 
+7 Orange
+8 Custerd apple
+9 Mask millon
+10 Water millon
+>>>>>>> aa0d7fd (list prepared)
